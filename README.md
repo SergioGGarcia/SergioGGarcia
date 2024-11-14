@@ -11,7 +11,7 @@
 
 - 👨🏻‍💻  I am a junior Full-Stack Developer who loves developing web-pages
 - 💡  I like to explore new technologies and learn to use them
-- ✍️  In my free time, I watch videos and streams from others web developers as hobbies/side hustles.
+- ✍️  In my free time, I watch videos and streams from other web developers as hobbies/side hustles.
 - 💬  Ask me about anything, I am happy to help, only if the ball is in my court!😉
 - ✉️  You can shoot me an email at sergiogg0412@gmail.com! I'll try to respond as soon as I can.
 - 📄  I'm open to feedback and suggestions!
